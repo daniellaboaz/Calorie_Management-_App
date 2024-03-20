@@ -2,7 +2,7 @@
   "name": "calorie-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/daniellaboaz/Calorie_Management-_App.git",
+  "homepage": "https://github.com/daniellaboaz/Calorie_Management-_App.git/",
   "dependencies": {
     "@date-io/dayjs": "^3.0.0",
     "@emotion/react": "^11.11.4",
